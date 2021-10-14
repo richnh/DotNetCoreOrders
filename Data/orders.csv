@@ -1,0 +1,4 @@
+﻿Order No,Consignment No,Parcel Code,Consignee Name,Address 1,Address 2,City,State,Country Code,Item Quantity,Item Value,Item Weight,Item Description,Item Currency
+ORD001,CON001,PARC001,Bob Berg,10 Baker St,Peckham,London,,GB,1,1.1,0.004,Pen,
+ORD001,CON002,PARC002,Bob Berg,11 Baker St,Peckham,London,,GB,2,13.99,14.23,Rubber,
+ORD003,CON003,PARC002,Rolf Dachette,12 Deutche Rd,DeschLand,Berlin,,DE,3,2.99,0.54,Car,
